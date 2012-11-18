@@ -1,0 +1,61 @@
+A:link {text-decoration: none; font-weight: normal; color:#0860a8}
+A:visited {text-decoration: none; font-weight: normal; color: #0860a8}
+A:active {text-decoration: none; font-weight: normal;  color: #0860a8}
+A:hover { text-decoration: none; font-weight: normal;  color: #4596de}
+
+A.menu:link {text-decoration: none; font-weight: bold; font-size: 10pt; color:#0860a8}
+A.menu:visited {text-decoration: none; font-weight: bold; font-size: 10pt; color: #0860a8}
+A.menu:active {text-decoration: none; font-weight: bold; font-size: 10pt; color: #0860a8}
+A.menu:hover { text-decoration: none; font-weight: bold; font-size: 10pt; color: #000000}
+
+A.black:link {text-decoration: none; font-weight: normal; color:#000000}
+A.black:visited {text-decoration: none; font-weight: normal; color: #000000}
+A.black:active {text-decoration: none; font-weight: normal;  color: #000000}
+A.black:hover { text-decoration: underline; font-weight: normal;  color: #000000}
+
+A.grey:link {text-decoration: none; font-weight: normal; color:#888888}
+A.grey:visited {text-decoration: none; font-weight: normal; color: #888888}
+A.grey:active {text-decoration: none; font-weight: normal;  color: #888888}
+A.grey:hover { text-decoration: none; font-weight: normal;  color: #000000}
+
+A.red:link {text-decoration: none; font-weight: bold; color:#e77918}
+A.red:visited {text-decoration: none; font-weight: bold; color: #e77918}
+A.red:active {text-decoration: none; font-weight: bold;  color: #e77918}
+A.red:hover { text-decoration: none; font-weight: bold;  color: #000000}
+
+body {
+	margin-top:0;
+	margin-left:0;
+	margin-right:0;
+	margin-bottom:0;
+	font-size: 9pt;
+	font-weight: normal;
+	color: #888888;
+	font-family: "verdana", "宋体";
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: url(../images/top_bg.gif);
+	background-position: top;
+}
+INPUT{height:20px;}
+INPUT.button{width:70px; height:25px;}
+td {font-size: 9pt; color:#000000; font-family: "verdana","宋体";line-height: 18px;}
+.topic_bg2{background-color: #FFFFFF;background-image: url(../images/topic_bg2.gif);background-repeat: repeat-x;}
+.content{background-image: url(../images/content_bg.jpg);background-repeat: repeat-x;}
+
+.title_black{color: #000000;font-size: 12pt;font-weight: bold;font-family:"黑体";}
+.title_blue{color: #00407d;font-size: 12pt;font-weight: bold;font-family:"黑体";}
+.title_red{color: #FF0000;font-size: 12pt;font-weight: bold;font-family:"黑体";}
+.title_grey{color: #838383;font-size: 12pt;font-weight: bold;font-family: "黑体";}
+.title_title{color: #000000;font-size: 11pt;font-weight: bold;font-family:"黑体";}
+.title_white{color: #ffffff;font-size: 11pt;font-weight: bold;font-family: "黑体";}
+
+.title_exchange{color: #00407d;font-size: 15pt;font-weight: bold;font-family:"黑体";line-height: 28px;}
+
+
+.banash {color: #000000; BORDER: #a6a6a6 1px solid; LINE-HEIGHT: 16px;BACKGROUND-COLOR: #ffffff;}
+
+.list_th{color:#ffffff; font-size: 9pt; font-weight: bold; height:22px; background-image: url(../images/title_bg_10.gif);	background-repeat: repeat-x;}
+.list_td_highlight td{color:#0860A8;background-color:#efefef;}
+.list_td_lowlight td{color:#0860A8;background-color:#ffffff;}
+.list_td_movelight td{	color:#ffffff;	background-color:#076101;}
